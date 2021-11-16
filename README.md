@@ -1,8 +1,8 @@
-# Msingi Sass Landing Page
+# Msingi Sass Lead Capture Page
 
 ![Msingi Logo](/msingi-landing-page/src/msingi.png)
 
-## Landing page for a Sass application for non-profits
+## Lead capture page for a Sass application for non-profits
 
 ## Msingi aims to:
  - Improve requisition process efficiency
