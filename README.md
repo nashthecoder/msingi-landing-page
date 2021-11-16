@@ -1,4 +1,4 @@
-# Msingi Sass Lead Capture Page
+# Msingi SaaS Lead Capture Page
 
 ![Msingi Logo](/msingi-landing-page/src/msingi.png)
 
