@@ -1,4 +1,4 @@
-import msingi from "../msingi.png";
+import msingi from "../../public/assets/images/msingi.png";
 const Form = () => {
     return (
         <section>
