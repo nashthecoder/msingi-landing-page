@@ -1,6 +1,6 @@
 # Msingi Sass Landing Page
 
-![Msingi Logo](./msingi-landing-page/public/assets/images/msingi.png)
+![Msingi Logo](../msingi.png)
 
 ## Landing page for a Sass application for non-profits
 
